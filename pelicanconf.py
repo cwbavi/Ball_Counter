@@ -1,5 +1,5 @@
 AUTHOR = 'Bavi Chandrahasan'
-SITENAME = 'Mini Field Manager'
+SITENAME = 'Team Resistace Mini Field Manager'
 SITEURL = ""
 
 PATH = "content"
