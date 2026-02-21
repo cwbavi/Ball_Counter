@@ -4,7 +4,7 @@ SITEURL = ""
 
 PATH = "content"
 
-THEME = "simple"
+THEME = "TeamResistance86-theme"
 
 TIMEZONE = 'America/New_York'
 

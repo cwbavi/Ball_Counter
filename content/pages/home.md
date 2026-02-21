@@ -1,7 +1,7 @@
 ---
-Title: imagine being born in 2012
+Title: home
 Date: 2026-02-17
-Category: idk
+Status: published
 ---
 
 haha imagine being 13
